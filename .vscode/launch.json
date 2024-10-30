@@ -28,8 +28,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lex/OneDrive - UCL Erhvervsakademi og Professionshøjskole/Desktop/´gitstuff/programmering/helloworld/lektion structs",
-      "program": "c:/Users/Lex/OneDrive - UCL Erhvervsakademi og Professionshøjskole/Desktop/´gitstuff/programmering/helloworld/lektion structs/build/Debug/outDebug",
+      "cwd": "c:/Users/Lex/OneDrive - UCL Erhvervsakademi og Professionshøjskole/Desktop/´gitstuff/programmering/helloworld/lektion classes",
+      "program": "c:/Users/Lex/OneDrive - UCL Erhvervsakademi og Professionshøjskole/Desktop/´gitstuff/programmering/helloworld/lektion classes/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
